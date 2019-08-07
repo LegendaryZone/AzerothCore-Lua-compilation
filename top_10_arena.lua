@@ -2,7 +2,7 @@ local NPC_ID = 60002    -- Put your NPC ID here  ( Script will show Top arena te
  
  local arena = {
         [2] = {"TOP 10 arena 2v2"},
-        [3]     = {"TOP 10 arena 3v3"},
+        [3] = {"TOP 10 arena 3v3"},
         [5] = {"TOP 10 arena 5v5"},    
 };
        
